@@ -3,12 +3,12 @@
 This repository provides all materials related to the self-experimental study on oropharyngeal cold stimulation for emotion regulation.
 
 ## 🔗 Direct Link to Raw Data
-The complete, raw dataset is permanently archived on Zenodo:
+The complete, raw dataset is permanently archived on Zenodo:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11451400.svg)](https://doi.org/10.5281/zenodo.11451400)
 
 ## 🗂️ Project Overview & Analysis Transparency
 
-This study was conceived and conducted by a researcher with a background in materials science and a deep personal interest in affective neuroscience. The analysis was performed iteratively with the assistance of AI tools (ChatGPT-4o) to navigate statistical methods beyond my primary field of study.
+This study was conceived and conducted by a researcher with a background in materials science and a deep personal interest in affective neuroscience. The analysis was performed iteratively with the assistance of AI tools (**DeepSeek-V3**) to navigate statistical methods beyond my primary field of study.
 
 ### **How to Understand and Reproduce the Analysis:**
 
@@ -24,7 +24,7 @@ This study was conceived and conducted by a researcher with a background in mate
 
 3.  **My Role vs. AI Assistance:**
     -   **My Contribution:** I defined the hypothesis, designed the experiment, collected all data, formulated the clinical question ("Did the ice make a difference?"), and interpreted the results within a neurophysiological framework.
-    -   **AI's Role:** I used ChatGPT-4o to confirm the appropriate statistical test (paired t-test) for my experimental design and to perform the actual calculation based on the data I provided. This was a collaborative tool to overcome a methodological gap.
+    -   **AI's Role:** I used DeepSeek-V3 to confirm the appropriate statistical test (paired t-test) for my experimental design and to perform the actual calculation based on the data I provided. This was a collaborative tool to overcome a methodological gap.
 
 4.  **How to Re-run the Analysis:**
     -   The raw data for the key comparison is available in the Zenodo dataset.
