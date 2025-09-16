@@ -8,7 +8,7 @@ The complete, raw dataset is permanently archived on Zenodo:
 
 ## 🗂️ Project Overview & Analysis Transparency
 
-This study was conceived and conducted by a researcher with a background in materials science and a deep personal interest in affective neuroscience. The analysis was performed iteratively with the assistance of AI tools (**DeepSeek-V3**) to navigate statistical methods beyond my primary field of study.
+This study was conceived and conducted by a researcher with a background in materials science and a deep personal interest in affective neuroscience. The analysis was performed iteratively with the assistance of AI tools (DeepSeek-V3) to navigate statistical methods beyond my primary field of study.
 
 ### **How to Understand and Reproduce the Analysis:**
 
@@ -31,4 +31,4 @@ This study was conceived and conducted by a researcher with a background in mate
     -   Any researcher can import this data into statistical software (e.g., SPSS, R, Python, or even online calculators) and perform a paired t-test to verify the significance of the mean difference in scores.
 
 ## 📄 License
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means you are free to share and adapt the material, as long as appropriate credit is given.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
